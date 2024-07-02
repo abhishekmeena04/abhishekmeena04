@@ -9,11 +9,11 @@
 <h2 align="left">💫 About Me:</h2>
 - 🔭 I’m currently working on Fullstack Web Development
 
-- 🌱 I’m currently learning **nextJs**
+- 🌱 I’m currently learning nextJs
 
-- 💬 Ask me about **ReactJs
+- 💬 Ask me about reactJs
 
-- 📫 How to reach me **6265134627**
+- 📫 How to reach me 6265134627
 
 - ⚡ Fun fact I learn new skills quickly.
 
