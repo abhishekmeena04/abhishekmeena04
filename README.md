@@ -7,13 +7,15 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h2 align="left">💫 About Me:</h2>
-- 🔭 I’m currently working on [engageNext](https://github.com/abhishekmeena04/EngageNow.git)
+- 🔭 I’m currently working on Fullstack Web Development
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **nextJs**
 
-- 💬 Ask me about **ReactJs, MERN Stack**
+- 💬 Ask me about **ReactJs
 
 - 📫 How to reach me **6265134627**
+
+- ⚡ Fun fact I learn new skills quickly.
 
 <h2 align="left">🌐 Socials:</h2>
 <p align="left">
