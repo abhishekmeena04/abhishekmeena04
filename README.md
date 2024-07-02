@@ -1,6 +1,3 @@
-<h1 align="center">Hello 👋, I'm Abhishek Meena</h1>
-<h2 align="center">Front-end Developer/ MERN Stack👨‍🏫</h2>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmeena04&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmeena04" /> </p>
 
