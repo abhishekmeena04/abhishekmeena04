@@ -10,7 +10,7 @@
 
 - 📫 How to reach me 6265134627
 
-- ⚡ Fun fact I learn new skills quickly.
+- ⚡ Fun fact I learn new skills quickly
 
 <h2 align="left">🌐 Socials: </h2>
 <p align="left">
